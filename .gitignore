@@ -1,0 +1,5 @@
+rsync_target
+config.php
+log.txt
+*.sqlite
+*.input
